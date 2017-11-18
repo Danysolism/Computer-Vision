@@ -7,4 +7,5 @@ Histogram matching
 Implementation of gradient magnitude and direction (imgradient from scratch)
 Unsharp filter
 Laplacian of Gaussian
+
 By [Sofia Herrero](https://github.com/SofiaHerrero) and [Daniela Solis](https://github.com/Danysolism)
