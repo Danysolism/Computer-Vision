@@ -10,6 +10,6 @@ Laplacian of Gaussian
 ## Optical Flow
 Implementation of Harris Corner Detector and Lucas-Kanade Algorithm
 ## Image Alignment and image stitching
-Implementation of image alignment using RANSAC algorithm and an implementation of image stitching from scratch
+Implementation of image alignment using RANSAC algorithm and an implementation of image stitching from scratch. Requires vlfeat-0.9.20
 
 By [Sofia Herrero](https://github.com/SofiaHerrero) and [Daniela Solis](https://github.com/Danysolism)
